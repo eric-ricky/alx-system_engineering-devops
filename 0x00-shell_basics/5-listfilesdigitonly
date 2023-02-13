@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lA --numeric-uid-grid
+ls -lA --no-group
