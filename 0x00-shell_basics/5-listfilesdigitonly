@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lA --no-group
+ls -l -a -n
